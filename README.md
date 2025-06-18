@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChintanDiwakar/zentickr-yahoo-query-mcp/refs/heads/main/avatar.png" alt="Zentickr Logo" width="200" height="200" />
+</div>
+
 # Zentickr - Yahoo Finance MCP Server
 
 A powerful Model Context Protocol (MCP) server that provides comprehensive access to Yahoo Finance data through the yahooquery library. This server exposes a wide range of financial data, market information, and stock analysis tools that can be integrated with AI assistants and applications.
